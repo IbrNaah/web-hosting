@@ -3,6 +3,17 @@
     font-size: 24px;
 }
 
+nav li {
+    display: inline-block;
+    width: 25%;
+    background-color: aquamarine;
+}
+
+nav li a {
+    font-size: 0.8rem;
+    text-decoration: none;
+}
+
 p {
     text-align: justify;
 }
