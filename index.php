@@ -4,9 +4,8 @@
     <meta charset="UTF-8">
     <title>Test</title>
     <link rel="stylesheet" href="./assets/style.css" />
-
 </head>
-<?php include 'header.php'; ?>
+<?php include "public/header.php"; ?>
 <body>
     <div id="projects">
         <ul>
@@ -20,9 +19,7 @@
 
     </div>
 </body>
-<footer>
-
-</footer>
+<?php include 'public/footer.php'; ?>
 
 </html>
 

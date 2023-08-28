@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Test</title>
-    <link rel="stylesheet" href="./assets/style.css" />
-
+    <title>About Me</title>
+    <link rel="stylesheet" href="../assets/style.css" />
 </head>
-<body>
-    <header>
 
-    </header>
+<?php include 'header.php'; ?>
+
+<body>
+    
     <img src=""   alt="profile pic" />
     <h1>Introduction</h1>
     <p>I am a highly motivated and adaptable individual with a diverse range of experience in accounting, procurement, and as an IT Technician. My years of experience in those areas have given me a strong foundation for managing complex tasks and meeting tight deadlines.
@@ -58,9 +58,6 @@
 
 
 </body>
-<footer>
-
-
-</footer>
+<?php include 'public/footer.php'; ?>
 </html>
 
