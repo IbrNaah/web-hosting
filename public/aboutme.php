@@ -58,6 +58,6 @@
 
 
 </body>
-<?php include 'public/footer.php'; ?>
+<?php include 'footer.php'; ?>
 </html>
 
