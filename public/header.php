@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <title>Test</title>
     <link rel="stylesheet" href="../assets/style.css" />
-
+    <script src="../src/main.js" charset="utf-8"></script>
 </head>
 <header>
     <img id="logo" src="../assets/img/logo.png" alt="logo"/>
