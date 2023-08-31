@@ -7,19 +7,9 @@
 </head>
 <?php include "public/header.php"; ?>
 <body>
-    <div id="projects">
-        <ul>
-            <li><a href="">NAPIC analytic tool</a></li>
-            <li><a href="">Recipe</a></li>
-            <li><a href="">Data Scrapper</a></li>
-            <li><a href="">Real Estate</a></li>
-            <li><a href="">COVID simulator</a></li>
-            <li><a href="">Forex prediction</a></li>
-        </ul>
-
-    </div>
+<?php include 'public/projects.php'; ?>
 </body>
 <?php include 'public/footer.php'; ?>
-
+<script src="../src/main.js" charset="utf-8"></script>
 </html>
 
